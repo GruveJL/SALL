@@ -1,0 +1,26 @@
+h1, h2 ,h3 ,p {
+  font-family: "Arial",sans-serif;
+}
+
+h1 {
+  font-size: 64px;
+  line-height: 0.1;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.caixa-alta{
+  text-transform: uppercase;
+  font-weight: bold;
+}
